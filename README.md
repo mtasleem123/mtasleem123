@@ -24,7 +24,7 @@ I am a Backend Developer with an experience of over 3 years. I have hands on exp
 ## Experience
 
 ### **SOFTWARE DEVELOPER**
-### MIRO
+### Towards Vision Technology
 
 Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
 

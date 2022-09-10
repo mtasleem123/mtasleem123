@@ -12,7 +12,7 @@ I am a Backend Developer with an experience of over 3 years. I have hands on exp
    <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="react" width="auto" height="40"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png" alt="angular" width="40" height="40"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png" alt="angular" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/JQuery_logo_text.svg" alt="angular" width="40" height="40"/>
 </p>
 
 ---

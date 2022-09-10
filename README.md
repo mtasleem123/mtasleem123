@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a frontend engineer with an experience of over 5 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 3 years.
+I am a Backend Developer with an experience of over 3 years. I have hands on experience working with technologies. I have extensively worked on php and javascript for 3 years.
 
 ---
 
@@ -18,7 +18,7 @@ I am a frontend engineer with an experience of over 5 years. I have hands on exp
 
 ## Experience
 
-### **SENIOR FRONTEND DEVELOPER**
+### **SOFTWARE DEVELOPER**
 ### MIRO
 
 Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides

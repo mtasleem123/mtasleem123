@@ -13,6 +13,7 @@ I am a Backend Developer with an experience of over 3 years. I have hands on exp
    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/JQuery_logo_text.svg" alt="jquery" width="40" height="40"/>
    <img src="https://brandslogos.com/wp-content/uploads/images/large/ajax-logo-1.png" alt="ajax" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="auto" height="40"/>
+   <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="40" height="40"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png" alt="mongodb" width="40" height="40"/>
   
 </p>

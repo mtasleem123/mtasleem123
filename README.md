@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a Backend Developer with an experience of over 3 years. I have hands on experience working with technologies. I have extensively worked on php and javascript for 3 years.
+I am a Backend Developer with an experience of over 3 years. I have hands on experience working with web technologies. I have extensively worked on php and javascript for 3 years.
 
 ---
 

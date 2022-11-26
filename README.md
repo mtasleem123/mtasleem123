@@ -35,6 +35,6 @@ I am a Backend Developer with an experience of over 3 years. I have hands on exp
 ---
 
 ### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
+Apart from being a Software developer,
 
 I enjoy being outdoors, I love travelling to different countries and explore different cultures. When i am inside , i listen music.
